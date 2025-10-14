@@ -1,8 +1,8 @@
 ## Hi there Nada Ahmed Here👋</br>
 
 - 🏛️🤓Currently a Computer and Communication Engineering student at Alexandria Univercity</br>
-- 📚I’m currently enrolled in Web Development Courses provided by Udemy  </br>
-- 🔭 I am currently looking for an internship opportunity as a front-end developer. </br>
+- 📚I’m currently enrolled in Web Development  and Machine Learning Courses provided by Udemy  </br>
+- 🔭 I am currently looking for an internship opportunity in one of the following fields: Front-end Development, UI-UX, Cybersecurity, AI and ML and Software Testing. </br>
 - 📫 How to reach me: yugoslavia2212@gmail.com </br>
 
 
